@@ -5,5 +5,5 @@
 <li>Then, go to &rdquo; Apps and Websites&rdquo; and you will see all of your Apps activities.</li>
 <li>Select the data that you want to delete.</li>
 <li>Click &rdquo; Remove&rdquo; button.</li>
-<li>Congratulation , you are successfully remove your data.-</li>
+<li>Congratulation , you are successfully remove your data.</li>
 </ol>
